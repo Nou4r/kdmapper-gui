@@ -1,0 +1,5 @@
+.vs
+kdmapper-gui/bin
+kdmapper-gui/obj
+Debug
+Release
